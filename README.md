@@ -46,21 +46,6 @@ https://www.coursera.org/account/accomplishments/certificate/UU6YGZT8KBJA
  <img src="">
 </div>
 
-#### Machine Learning: Regression
-https://www.coursera.org/account/accomplishments/certificate/UU6YGZT8KBJA
-<div>
-  Details :<br>
-    <ul>
-      <li>Issuing Organization: &nbsp&nbspCoursera</li>
-      <li>Issue Date:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJuly 2020</li>
-      <li>Expiration Date:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspThis certification does not expire</li>
-      <li>Credential ID:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUU6YGZT8KBJA<br></li>
-    </ul>
-</div>
-<div>
- <img src="">
-</div>
-
 #### Machine Learning: Classification
 https://www.coursera.org/account/accomplishments/certificate/LFN5RENELJL4
 <div>
