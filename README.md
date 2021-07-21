@@ -13,7 +13,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/JEP3
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Machine%20Learning%20Specialization.jpeg">
 </div>
 
 #### Machine Learning Foundations: A Case Study Approach
@@ -28,7 +28,7 @@ https://www.coursera.org/account/accomplishments/certificate/34VZXE4P9EXU
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Machine%20Learning%20Foundations%20A%20Case%20Study%20Approach.jpeg">
 </div>
   
 #### Machine Learning: Regression
@@ -43,7 +43,7 @@ https://www.coursera.org/account/accomplishments/certificate/UU6YGZT8KBJA
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Machine%20Learning%20Regression.jpeg">
 </div>
 
 #### Machine Learning: Classification
@@ -58,7 +58,7 @@ https://www.coursera.org/account/accomplishments/certificate/LFN5RENELJL4
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Machine%20Learning%20Classification.jpeg">
 </div>
 
 #### Machine Learning: Clustering & Retrieval
@@ -73,7 +73,7 @@ https://www.coursera.org/account/accomplishments/certificate/HNBUQEX7YHQY
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Machine%20Learning%20Clustering%20and%20Retrieval.jpeg">
 </div>
 
 # Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
@@ -88,7 +88,7 @@ https://www.coursera.org/account/accomplishments/certificate/RQJSGEYKPETZ
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning.jpeg">
 </div>
 
 # The Data Scientist’s Toolbox
@@ -103,7 +103,7 @@ https://www.coursera.org/account/accomplishments/certificate/2G3UBX8SJXZA
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/The%20Data%20Scientist%E2%80%99s%20Toolbox.jpeg">
 </div>
 
 # Neural Networks and Deep Learning
@@ -118,7 +118,7 @@ https://www.coursera.org/account/accomplishments/certificate/Y25J9NKHZVSE
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Neural%20Networks%20and%20Deep%20Learning.jpeg">
 </div>
 
 # Create Your First Chatbot with Rasa and Python
@@ -133,5 +133,5 @@ https://www.coursera.org/account/accomplishments/certificate/JQ4LV8UTGJY5
     </ul>
 </div>
 <div>
- <img src="">
+ <img src="https://github.com/prathyush2510/Courses-and-Certificates/blob/main/Images/Create%20Your%20First%20Chatbot%20with%20Rasa%20and%20Python.jpeg">
 </div>
